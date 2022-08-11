@@ -1156,7 +1156,7 @@ body{
     }
 
     	.about__col2 {
-    		width: 369px;
+    		width: 100%;
 		}
 
 		.about__area{
@@ -1181,12 +1181,11 @@ body{
 
 
 		.value__area--responsive {
-			width: 369px;
+			width: 100%;
 		}
 
 		.value__element{
-			height: 269px;
-    		padding: 37px 37px;
+			height: 100%;    		
 
 		}
 
