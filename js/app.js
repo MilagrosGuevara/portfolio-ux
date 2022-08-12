@@ -40,7 +40,7 @@ ScrollReveal().reveal('.home__subtitle--first', {
 
 ScrollReveal().reveal('.project__container--filly', { 
 	
-	duration: 1050,	
+	duration: 850,	
 	easing: 'ease-in-out',
 	origin: 'bottom',
 	distance: '60px',
@@ -49,7 +49,7 @@ ScrollReveal().reveal('.project__container--filly', {
 
 ScrollReveal().reveal('.project__container--linkedin', { 
 	
-	duration: 1080,	
+	duration: 880,	
 	easing: 'ease-in-out',
 	origin: 'bottom',
 	distance: '50px',
@@ -59,7 +59,7 @@ ScrollReveal().reveal('.project__container--linkedin', {
 
 ScrollReveal().reveal('.project__container--vebe', { 
 	
-	duration: 1080,	
+	duration: 880,	
 	easing: 'ease-in-out',
 	origin: 'bottom',
 	distance: '50px',
@@ -69,7 +69,7 @@ ScrollReveal().reveal('.project__container--vebe', {
 
 ScrollReveal().reveal('.project__container--olla', { 
 	
-	duration: 1080,	
+	duration: 880,	
 	easing: 'ease-in-out',
 	origin: 'bottom',
 	distance: '50px',
